@@ -1,6 +1,15 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.19.2",
     "nodemailer": "^6.9.13"
-  }
+  },
+  "name": "cs-webhooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:blue0316/cs-webhooks.git",
+  "author": "blue0316 <greatblueknight@gmail.com>",
+  "license": "MIT"
 }
